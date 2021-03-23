@@ -9,4 +9,4 @@
 </p>
 
 ### For [I2S Ingenierie](http://www.i2singenierie.com)
-![thumbnail](/screenshot.jpg)
+![thumbnail](/preview.png)
